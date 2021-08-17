@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HNGProject1</string>
+    <string name="enter_text_to_display">Enter text to display</string>
+    <string name="text">Text to Display</string>
+</resources>
